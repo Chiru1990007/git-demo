@@ -2,11 +2,5 @@
 
 this is the first file in this repo.
 
-## Ipsum Below
-
-ldkajlkdadfaljdnjknfadkjfjadbfjbdjkncjnvdkjnajd
-fadkjjfalkfadkfjakl
-djfjakjalkjdskjalkjdlka
-
-lfkjldakjkjakjlkajdlkajlkdnanfjfufnnvjfhjd
-dhfkdasnjndahjndbcuidnnd
+## Websote Contents
+1. Index.html
